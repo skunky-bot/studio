@@ -1,3 +1,7 @@
+> **Canonical Skunky role:** This repository is the existing operator/developer toolkit and desktop GUI. Its Python code is preserved; new authenticated preview tooling lives in [tools/skunky_preview.py](tools/skunky_preview.py). The central [Skunky architecture ADR](https://github.com/skunky-bot/www/blob/main/docs/architecture/ADR-0001-skunky-platform.md) governs future integration. Historical examples and badges below may describe prior repository names or unverified features; they are not evidence of production deployment.
+
+---
+
 # SkunkScrape
 
 [![CI](https://img.shields.io/github/actions/workflow/status/SKUNKSCRAPE/skunkscrape/ci.yml?branch=main&label=CI)](https://github.com/SKUNKSCRAPE/skunkscrape/actions)
